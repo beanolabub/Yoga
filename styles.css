@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #c8c4dc, #e0def3);
+  font-family: Verdana, Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+}
+
+.caption {
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.contact-info {
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.contact-info a {
+  color: #333;
+  text-decoration: none;
+}
+
+ul,li {list-style:none;}
